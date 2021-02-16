@@ -1,0 +1,5 @@
+.vscode/
+dist/
+plot/
+tmp/
+*.desktop

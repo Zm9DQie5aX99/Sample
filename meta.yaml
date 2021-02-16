@@ -1,0 +1,11 @@
+title: title
+initial: あ
+tagline: tagline
+description:
+  - description
+chapters:
+  - name: chapter
+    introduction: introduction
+color: fg
+emoji: ●
+characters: {}
