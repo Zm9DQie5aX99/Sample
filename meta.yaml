@@ -1,11 +1,11 @@
-title: title
+title: サンプル・ノベル
 initial: あ
-tagline: tagline
+tagline: タグライン
 description:
-  - description
+  - ディスクリプション
 chapters:
-  - name: chapter
-    introduction: introduction
-color: fg
-emoji: ●
+  - name: チャプター１
+    introduction: イントロダクション
+color: red
+emoji: 🍀
 characters: {}
